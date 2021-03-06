@@ -9,3 +9,12 @@ Busniess Questions:
 1. What is the likelihood of an active customer leaving an organization?
 2. What are key indicators of a customer churn?
 3. What retention strategies can be implemented based on the results to diminishing prospective customer churn?
+
+Process:
+
+1. Getting the Data Ready
+2. Selecting Different Models for Prediction
+3. Evaluate Different Models for Prediction
+4. Improving the Final Model Prediction
+5. Making Prediction Based on the Final Selected Model
+6. Deploying the Model for Production
